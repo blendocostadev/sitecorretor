@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   description:
     "Encontre o imóvel dos seus sonhos com nossa equipe especializada. Apartamentos, casas e imóveis comerciais de luxo em São Paulo.",
   keywords: "imóveis, apartamentos, casas, São Paulo, luxo, premium, corretor, imobiliária",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
